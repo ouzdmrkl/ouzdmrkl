@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ouzdmrkl
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Unity and C#
 
 Hey, I am Oğuz. I love software and games. Thats all.
 
