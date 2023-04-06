@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity and C#
 
-Hey, I am Oğuz. I love software and games. Thats all.
+Hey, I am Ouz. I love software and games. Thats all.
 
 <!---
 ouzdmrkl/ouzdmrkl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
