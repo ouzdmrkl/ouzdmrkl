@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ouzdmrkl
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity and C#
+- 👋 Hi, I’m Oguz.
 
-Hey, I am Ouz. I love software and games. Thats all.
+I love software and games.
 
 <!---
 ouzdmrkl/ouzdmrkl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
