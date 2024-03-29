@@ -1,8 +1,4 @@
-Hi, I’m Ouz.
-
-I love software and games.
-
-Currently, I am studying Mechatronics Engineering. Meanwhile I am developing games using C# with Unity Game Engine.
+Game Developer at Merlot
 
 <!---
 ouzdmrkl/ouzdmrkl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
